@@ -9,7 +9,7 @@ GPU: Radeon
 
 The following command can be used to connect a Windows using RDP. 
 
-`xfreerdp +clipboard /u:HP /v:redacted-ip /dynamic-resolution +toggle-fullscreen`
+`xfreerdp +clipboard /u:user-name /v:redacted-ip /dynamic-resolution +toggle-fullscreen`
 
 `Ctrl+Alt+Enter` : Toggle fullscreen 
 
