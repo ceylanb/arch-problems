@@ -13,6 +13,10 @@ The following command can be used to connect a Windows using RDP.
 
 `Ctrl+Alt+Enter` : Toggle fullscreen 
 
+## List listening ports
+
+`ss --tcp --listening --numeric`
+
 
 ## Screen backlight keys will not work!
 
